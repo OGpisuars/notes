@@ -1,6 +1,29 @@
 **MarkDown**
-	Mark down izmanto priekš 
 
+	Markdown ir viegla markup valoda, ko varat izmantot, lai vienkārša teksta dokumentiem pievienotu formatēšanas elementus. Markdown, ko 2004. gadā izveidoja Džons Grūbers, tagad ir viena no pasaulē populārākajām iezīmēšanas valodām.
+	Markdown izmantošana atšķiras no WYSIWYG redaktora izmantošanas. Programmā, piemēram, Microsoft Word, jūs noklikšķiniet uz pogām, lai formatētu vārdus un frāzes, un izmaiņas ir redzamas nekavējoties. Markdown tā nav. Veidojot Markdown formatētu failu, tekstam 	jāpievieno Markdown sintakse, lai norādītu, kuriem vārdiem un frāzēm vajadzētu izskatīties savādāk.
+
+???Kāpēc izmantot Markdown???
+
+
+	Jums varētu rasties jautājums, kāpēc cilvēki izmanto Markdown, nevis WYSIWYG redaktoru. Kāpēc rakstīt, izmantojot Markdown, ja varat nospiest pogas saskarnē, lai formatētu tekstu? Kā izrādās, ir vairāki iemesli, kāpēc cilvēki izmanto Markdown, nevis WYSIWYG 	redaktorus.
+
+	Markdown var izmantot visam. Cilvēki to izmanto, lai izveidotu tīmekļa vietnes, dokumentus, piezīmes, grāmatas, prezentācijas, e-pasta ziņojumus un tehnisko dokumentāciju.
+
+	Markdown ir pārnēsājams. Failus, kas satur Markdown formatētu tekstu, var atvērt, izmantojot praktiski jebkuru lietojumprogrammu. Ja izlemjat, ka jums nepatīk pašlaik izmantotā Markdown lietojumprogramma, varat importēt savus Markdown failus citā Markdown 	lietojumprogrammā. Tas ir krasā pretstatā tekstapstrādes lietojumprogrammām, piemēram, Microsoft Word, kas bloķē jūsu saturu patentētā faila formātā.
+
+	Markdown ir platformas neatkarīga. Varat izveidot Markdown formatētu tekstu jebkurā ierīcē, kurā darbojas jebkura operētājsistēma.
+
+	Markdown ir nākotnes pierādījums. Pat ja jūsu izmantotā lietojumprogramma kādā brīdī nākotnē pārtrauks darboties, jūs joprojām varēsit lasīt Markdown formatēto tekstu, izmantojot teksta rediģēšanas lietojumprogrammu. Tas ir svarīgs apsvērums, kad runa ir par 	grāmatām, universitātes disertācijām un citiem pagrieziena dokumentiem, kas ir jāsaglabā bezgalīgi.
+
+	Markdown ir visur. Vietnes, piemēram, Reddit un GitHub, atbalsta Markdown, un to atbalsta daudzas darbvirsmas un tīmekļa lietojumprogrammas.
+
+++++Noderīgas mājaslapas++++
+	markdownguide.io
+	dillinger.io
+
+
+--MarkDown Cheatsheet--
 	
 	__Heading__
 		# H1
@@ -8,22 +31,29 @@
 		### H3
 	__Bold__
 		**bold text**
+
 	__Italic__
 		*italicized text*
+
 	__Blackquote__
 		> blackquote
+
 	__ordered list__
 		1. First item
 		2. Second item
 		3. Third item
+ 
 	__Unordered List__
 		- First item
 		- Second item
 		- Third item
+
 	__Code__
 		`code`
+
 	__Horizontal Rule__
 		---
+
 	__link__
 		[title](https://www.example.com)
 	__Image__
@@ -35,7 +65,21 @@
 		| ----------- | ----------- |
 		| Header | Title |
 		| Paragraph | Text |
-	
+
+	__Fenced Code Block__
+		{
+  		"firstName": "John",
+  		"lastName": "Smith",
+  		"age": 25
+		}
+
+	__Footnote__
+		Here's a sentence with a footnote. [^1]
+
+		[^1]: This is the footnote.
+
+	__
+
 	
 	
 	
