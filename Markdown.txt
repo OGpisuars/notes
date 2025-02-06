@@ -24,6 +24,11 @@
 
 
 --MarkDown Cheatsheet--
+	##Tekstsa formatēšana
+		*priekš slīpteksta* vai ar _apakšsvītru_
+		**Teksts** ir bold
+		
+		
 	
 	__Heading__
 		# H1
