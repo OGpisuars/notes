@@ -27,7 +27,7 @@
 	##Tekstsa formatēšana
 		*priekš slīpteksta* vai ar _apakšsvītru_
 		**Teksts** ir bold
-		
+		***trekns un slīps***
 		
 	
 	__Heading__
