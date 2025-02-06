@@ -1,0 +1,42 @@
+**MarkDown**
+	Mark down izmanto priekš 
+
+	
+	__Heading__
+		# H1
+		## H2
+		### H3
+	__Bold__
+		**bold text**
+	__Italic__
+		*italicized text*
+	__Blackquote__
+		> blackquote
+	__ordered list__
+		1. First item
+		2. Second item
+		3. Third item
+	__Unordered List__
+		- First item
+		- Second item
+		- Third item
+	__Code__
+		`code`
+	__Horizontal Rule__
+		---
+	__link__
+		[title](https://www.example.com)
+	__Image__
+		![alt text](image.jpg)
+	
+
+	__Table__
+		| Syntax | Description |
+		| ----------- | ----------- |
+		| Header | Title |
+		| Paragraph | Text |
+	
+	
+	
+	
+	
