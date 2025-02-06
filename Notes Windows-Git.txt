@@ -1,0 +1,52 @@
+- Git -
+	Git is a software that comes with your pc if you have linux or macOS but if you have windows you have to download Git.
+	Git is a memory card for code.
+	Karoch kodeeshanas checkpoint
+
+	git config --global user.name "[firstname lastname]" - iestāda username versijas vēsturei
+	git config --global user.email "[valid email]" - uzstāda epasta adresi kura saistīta ar vēstures izveidotāju
+
+	git --version - norāda kāda versija ir git un ir pieejams 
+
+
+	mkdir gitVideo - uztaisa mapi/folder ar nosaukumu "gitVideo"
+	cd -  Nomaina atrašanās vietu
+	touch index.html app.css - izveido "index.html", "app.css"
+	git init - lai izmantotu git. pašreizējo direktoriju pārtaisa par git repository initialize git
+	git add  - saglabā specific lietu
+	git add . -  saglabā visu
+	git commit -m "message" - iesniedz savu darbu un lauj parādīt ko esi izdarījis. saglabā (commit) iepriekš sagatavotus failus git vēsturē.
+	git log - saglabātie laiki
+	git checkout "ievadītais save" - aiziet uz noteikto checkpoint/ branch
+	git status - norāda failus darba directory kas ir sagatavoti saglabāšanai git vēsturē
+	git add [file] - pievieno failu nākamai saglabāšanai  (stage array)
+	git config --global user.name
+
+- Windows -
+	command prompt - raw dators
+	C:/users/vards/lokacija/ - (path)ceļš lai nokļūtu līdz norādītajai vietai. 
+
+ 	dir - directory/folder
+	cd "     " -  change location. basically pāriet uz citu directory
+	. - pašreizējā mape
+	.. - parent mape/ vecāku mape
+
+- Linux directory -
+	
+	ls - list contents
+	/ - root directory
+	cd - change directory
+	/bin - binary file. Izpildāmās programmas
+	$PATH - Ceļs kur atrast programmas
+	which - programmu atrašanās vieta
+	/usr - mape kur ir programmas kas instalētas
+	/home cd a242728kd/ - līdzīgs kā C:/users/a242728kd/
+	~ - tas pats kas darba lietotāja mape
+	/boot - Linux nepieciešamie ielādes faili
+	/dev - device files. Ierīču faili.
+	/var - 
+	/tmp - temporary files. Pagaidu faili. Pēc restart faili var būt zuduši
+	/proc - izpildāmās programmas. Linux glabā izpildāmās programmas kā failus
+	 
+	
+	
