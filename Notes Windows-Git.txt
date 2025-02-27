@@ -22,6 +22,12 @@
 	git add [file] - pievieno failu nākamai saglabāšanai  (stage array)
 	git config --global user.name
 
+-- Kā izskatās GitBash --
+	rwx - read write execute
+	rw- - read write
+	r-x - read execute
+	
+
 - Windows -
 	command prompt - raw dators
 	C:/users/vards/lokacija/ - (path)ceļš lai nokļūtu līdz norādītajai vietai. 
@@ -33,7 +39,7 @@
 
 - Linux directory -
 	
-	ls - list contents
+	ls - list contents (ls -a) list all contents
 	/ - root directory
 	cd - change directory
 	/bin - binary file. Izpildāmās programmas
@@ -47,6 +53,6 @@
 	/var - 
 	/tmp - temporary files. Pagaidu faili. Pēc restart faili var būt zuduši
 	/proc - izpildāmās programmas. Linux glabā izpildāmās programmas kā failus
-	 
+	others() - citi lietotāji
 	
 	
