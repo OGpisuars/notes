@@ -26,6 +26,7 @@
 	rwx - read write execute
 	rw- - read write
 	r-x - read execute
+	touch - veido tukšu failu
 	
 
 - Windows -
