@@ -27,7 +27,10 @@
 	rw- - read write
 	r-x - read execute
 	touch - veido tukšu failu
-	
+	chmod +x dzerkalsKaspars25_izvade_flush.py - (+x) piekļūšanas (execute) tiesības 
+	ls - parāda failus
+	ls -a - parāda visus failus
+	ls -al parāda vairāk par visiem failiem
 
 - Windows -
 	command prompt - raw dators
