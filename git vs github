@@ -1,0 +1,24 @@
+__ Git Hub __
+  Hosted (izvetiota Web Serverī) "Git"
+  
+  
+
+__ Git __
+  Version control system
+  - Track your changes/ snapshots
+  - Team development
+  - Flexable_ allows to work locally and somewhere else
+  - Using command line
+
+__Trunk-based-development__
+    It has branches
+                  "Main"
+                     |
+                    /|
+      "off branch" | |
+                    \|\
+                     | | "off branch"
+                     |/
+                     |
+
+
