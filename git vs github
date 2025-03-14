@@ -9,6 +9,10 @@ __ Git __
   - Team development
   - Flexable_ allows to work locally and somewhere else
   - Using command line
+  git clone https://github.com/pikcrvt-students/PB1-py-my_first_repository-Kaspars_ak.git
+  git push
+  git pull
+
 
 __Trunk-based-development__
     It has branches
