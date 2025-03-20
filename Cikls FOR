@@ -1,0 +1,12 @@
+__ Cikls ar skaitītāju __
+  Kas ir cikls?
+    Cikls ir programmēšanas struktūra, kas ļauj atkārtot kodu vairākas reizes, pamatojoties uz noteiktu nosacījumu vai skaitu. 
+    Piemēram, for cikls atkārto kodu noteiktu reizes,
+    bet while cikls turpina izpildi, kamēr nosacījums ir patiess.
+
+  Cikls ar skaitītāju (ranage)
+    Cikls ar skaitītāju ir cikls, kurš atkartojas noteiktu reižu skaitu.
+
+  Kas ir skaitītājs?
+    Cikla skaitītājs ir mainīgais, kas skaita cik reižu cikls atkārtojas.
+    Skaitītājs skaita no "0"
